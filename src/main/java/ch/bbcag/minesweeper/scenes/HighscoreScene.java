@@ -13,8 +13,6 @@ public class HighscoreScene extends RootScene implements Initializable {
     private TextHolder highTwoLbl;
     private TextHolder highThreeLbl;
 
-
-
     public HighscoreScene(Navigator nav) {
 
         super(nav);
